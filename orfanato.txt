@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="styles.css">
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título</title>
+</head>
+<body>
+<h2>Orfanato</h2>
+<p>Crece compartiendo habitación con varios chicos del orfanato, tiene un gran interés en la ciencia y los <a href="inventos.html"> inventos </a>, lo que hace que espante a los posibles <a href="adoptantes.html"> adoptantes </a>
+ </p>
+</body>

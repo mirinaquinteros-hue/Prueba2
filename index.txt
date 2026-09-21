@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="styles.css">
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título</title>
+</head>
+<body>
+<h1>El futuro de mís sueños</h1>
+<p>Una madre está por dejar a su hijo en la puerta de un orfanato una noche de lluvia. 
+Al dejarlo en el piso</p>
+<div class="contenedor-gifs">
+<a href="madre.html">
+    <img src="opcion1.gif" alt="Haz clic para continuar">
+</a>
+<a href="orfanato.html">
+    <img src="opcion2.gif" alt="Haz clic para continuar">
+</a>
+</body>
